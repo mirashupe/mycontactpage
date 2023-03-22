@@ -51,8 +51,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /* ---------- This is the beginning of my 201 Contact Web Page Project ------------ */
 
 html, body {
@@ -99,7 +97,6 @@ h2 {
 	font-weight: 700;
 	font-style: normal;
 	font-size: 1.5em;
-	text-align: left; /*overrides center text command*/
     line-height: 1.4;
     color: #000000;
     margin: 0px auto 20px auto;
@@ -109,7 +106,6 @@ p {
 	font-family: "p22-mackinac-pro", serif;
 	font-weight: 400;
 	font-style: normal;
-	text-align: left;
 	font-size: 1.1em;
     line-height: 1.6;
     color: #000000;
