@@ -116,7 +116,8 @@ nav{
 	font-weight: 700;
 	font-style: normal;
 	font-size: 1.8em;
-	width: 100%;
+	width: 50%;
+	max-height: 800px;
 	margin: 0 auto;
 	text-align: center;
 
@@ -129,8 +130,7 @@ nav li{
 nav a{
 	display: inline-block;
 	padding: 4%;
-	margin-left: .5em;
-	margin-right: auto;
+	margin: .5em auto auto .5em;
 	border-width: 5px;
 	border-color: #007d9e;
 	border-style:solid;
